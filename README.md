@@ -1,1 +1,1 @@
-A minimal start using webpack 1 and TypeScript.
+A minimal starter using webpack 1 and TypeScript.
